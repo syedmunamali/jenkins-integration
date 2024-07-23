@@ -1,0 +1,12 @@
+{
+    "name": "nodeapp-docker-freestyle",
+    "version": "1.0.0",
+    "description": "A simple Node.js app that says Hello World",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }  
